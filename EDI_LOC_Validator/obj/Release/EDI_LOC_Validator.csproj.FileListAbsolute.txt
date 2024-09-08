@@ -1,0 +1,10 @@
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\bin\Release\EDI_LOC_Validator.exe.config
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\bin\Release\EDI_LOC_Validator.exe
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\bin\Release\EDI_LOC_Validator.pdb
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\obj\Release\EDI_LOC_Validator.csproj.AssemblyReference.cache
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\obj\Release\EDI_LOC_Validator.Form1.resources
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\obj\Release\EDI_LOC_Validator.Properties.Resources.resources
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\obj\Release\EDI_LOC_Validator.csproj.GenerateResource.cache
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\obj\Release\EDI_LOC_Validator.csproj.CoreCompileInputs.cache
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\obj\Release\EDI_LOC_Validator.exe
+C:\dev\EDI_Log_Validator\EDI_LOC_Validator\EDI_LOC_Validator\obj\Release\EDI_LOC_Validator.pdb
