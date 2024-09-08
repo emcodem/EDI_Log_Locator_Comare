@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\EDI_Log_Locator_Compare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|c:\\dev\\edi_log_locator_compare\\edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|solutionrelative:edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|c:\\dev\\edi_log_locator_compare\\edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|solutionrelative:edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|c:\\dev\\edi_log_locator_compare\\edi_loc_validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|solutionrelative:edi_loc_validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Program.cs",
+              "RelativeDocumentMoniker": "EDI_LOC_Validator\\Program.cs",
+              "ToolTip": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Program.cs",
+              "RelativeToolTip": "EDI_LOC_Validator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:46:24.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
+              "RelativeDocumentMoniker": "EDI_LOC_Validator\\Form1.cs",
+              "ToolTip": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
+              "RelativeToolTip": "EDI_LOC_Validator\\Form1.cs",
+              "ViewState": "AQIAAPoAAAAAAAAAAAASwBABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:56:47.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
+              "RelativeDocumentMoniker": "EDI_LOC_Validator\\Form1.cs",
+              "ToolTip": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs [Design]",
+              "RelativeToolTip": "EDI_LOC_Validator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:53:09.455Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 603,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
