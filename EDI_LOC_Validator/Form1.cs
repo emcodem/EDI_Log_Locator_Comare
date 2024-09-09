@@ -30,9 +30,11 @@ namespace EDI_LOC_Validator
                         var split = line.Split(';');
                         if (split.Length == 15)
                         {
+                            var ymd = split[0];
+                            var hm = split[1];
                             var callsign = split[2];
                             var locator = split[9];
-                            list.Add(new EdiEntry(callsign, locator));
+                            list.Add(new EdiEntry(callsign, locator,ymd,hm));
                         }
                     }
                     catch (Exception ex) { }
@@ -320,12 +322,18 @@ namespace EDI_LOC_Validator
     {
         private string _CALL;
         private string _LOC;
+        private string _YMD;
+        private string _HM;
         public string CALL { get { return _CALL; } }
         public string LOC { get { return _LOC; } }
-        public EdiEntry(string call, string loc)
+
+        public string TIME { get { return _HM; } }
+        public EdiEntry(string call, string loc, string ymd, string hm) //ymdhm is time
         {
             _CALL = call;
             _LOC = loc;
+            _YMD = ymd;
+            _HM = hm;
         }
 
 

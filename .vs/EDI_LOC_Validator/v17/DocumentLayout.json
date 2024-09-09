@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|solutionrelative:edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|c:\\dev\\edi_log_locator_compare\\edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|C:\\dev\\EDI_Log_Locator_Compare\\edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|solutionrelative:edi_loc_validator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|c:\\dev\\edi_log_locator_compare\\edi_loc_validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|C:\\dev\\EDI_Log_Locator_Compare\\edi_loc_validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4966EA1-DFB3-433B-B970-AAFC8ECCB041}|EDI_LOC_Validator\\EDI_LOC_Validator.csproj|solutionrelative:edi_loc_validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
+              "RelativeDocumentMoniker": "EDI_LOC_Validator\\Form1.cs",
+              "ToolTip": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
+              "RelativeToolTip": "EDI_LOC_Validator\\Form1.cs",
+              "ViewState": "AQIAACoBAAAAAAAAAAAqwE8BAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:56:47.055Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -34,21 +48,7 @@
               "RelativeToolTip": "EDI_LOC_Validator\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T13:46:24.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
-              "RelativeDocumentMoniker": "EDI_LOC_Validator\\Form1.cs",
-              "ToolTip": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
-              "RelativeToolTip": "EDI_LOC_Validator\\Form1.cs",
-              "ViewState": "AQIAAPoAAAAAAAAAAAASwBABAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T12:56:47.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T13:46:24.602Z"
             },
             {
               "$type": "Document",
