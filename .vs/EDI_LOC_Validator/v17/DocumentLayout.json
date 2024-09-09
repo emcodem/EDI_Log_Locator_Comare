@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "EDI_LOC_Validator\\Form1.cs",
               "ToolTip": "C:\\dev\\EDI_Log_Locator_Compare\\EDI_LOC_Validator\\Form1.cs",
               "RelativeToolTip": "EDI_LOC_Validator\\Form1.cs",
-              "ViewState": "AQIAACoBAAAAAAAAAAAqwE8BAAAVAAAA",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAAIBAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T12:56:47.055Z",
               "IsPinned": true,
@@ -48,7 +48,8 @@
               "RelativeToolTip": "EDI_LOC_Validator\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T13:46:24.602Z"
+              "WhenOpened": "2024-09-08T13:46:24.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

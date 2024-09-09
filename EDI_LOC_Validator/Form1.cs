@@ -170,12 +170,16 @@ namespace EDI_LOC_Validator
 
         private void dataGridViewEntriesDifferent_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+
+        }
+
+        private void dataGridViewEntriesDifferent_CellEnter(object sender, DataGridViewCellEventArgs e)
+        {
             var selectedCall = dataGridViewEntriesDifferent.Rows[e.RowIndex].Cells[0].Value.ToString();
             var selectedLoc = dataGridViewEntriesDifferent.Rows[e.RowIndex].Cells[1].Value.ToString();
-            List<EdiEntry> knownEntries =  m_oldEntries.FindAll(p => p.CALL == selectedCall);
+            List<EdiEntry> knownEntries = m_oldEntries.FindAll(p => p.CALL == selectedCall);
             dataGridViewHistoryLoc.DataSource = null;
             dataGridViewHistoryLoc.DataSource = knownEntries;
-
         }
 
         private void buttonUpdateLoc_Click(object sender, EventArgs e)
@@ -242,6 +246,10 @@ namespace EDI_LOC_Validator
 
         private void dataGridViewOddCallsigns_CellClick(object sender, DataGridViewCellEventArgs e)
         {
+
+        }
+        private void dataGridViewOddCallsigns_CellEnter(object sender, DataGridViewCellEventArgs e)
+        {
             if (e.RowIndex == -1)
                 return;
             var selectedCall = dataGridViewOddCallsigns.Rows[e.RowIndex].Cells[0].Value.ToString();
@@ -250,7 +258,6 @@ namespace EDI_LOC_Validator
             dataGridViewKnownCallsigns.DataSource = null;
             dataGridViewKnownCallsigns.DataSource = knownEntries;
         }
-
         private void buttonUpdateCall_Click(object sender, EventArgs e)
         {
             if (dataGridViewKnownCallsigns.SelectedCells.Count == 0)

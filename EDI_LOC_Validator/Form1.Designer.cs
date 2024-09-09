@@ -249,6 +249,7 @@
             this.dataGridViewEntriesDifferent.Size = new System.Drawing.Size(916, 285);
             this.dataGridViewEntriesDifferent.TabIndex = 0;
             this.dataGridViewEntriesDifferent.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewEntriesDifferent_CellClick);
+            this.dataGridViewEntriesDifferent.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewEntriesDifferent_CellEnter);
             // 
             // groupBox5
             // 
@@ -272,6 +273,7 @@
             this.dataGridViewOddCallsigns.Size = new System.Drawing.Size(916, 285);
             this.dataGridViewOddCallsigns.TabIndex = 0;
             this.dataGridViewOddCallsigns.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewOddCallsigns_CellClick);
+            this.dataGridViewOddCallsigns.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewOddCallsigns_CellEnter);
             // 
             // groupBox6
             // 
